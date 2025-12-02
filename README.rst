@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fallpaths%2Fgeant4.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fallpaths%2Fgeant4?ref=badge_shield)
+
 =====
 Geant4: A Simulation Toolkit
 =====
@@ -38,3 +40,7 @@ If you think you have found a bug in Geant4, please open a ticket on our `Bugzil
 Contributing to Geant4
 =====
 Please see the main `Contribution Guide <./CONTRIBUTING.rst>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fallpaths%2Fgeant4.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fallpaths%2Fgeant4?ref=badge_large)
